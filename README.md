@@ -1,0 +1,3 @@
+discord-matrix - a project in which various tools created for this client/collection of various programs for discord for various purposes are collected, the task of discord-matrix is to unite all the tools of this division in a convenient GUI.
+
+To be more specific, discord-matrix itself is a mini interface that combines modules and forms a matrix, that's where the name comes from, our task is to write such a client in which you can conveniently build your own unit and choose what tools you need, we hope that after the release (yes, the project is just starting) there will already be some nice tools, thanks!
